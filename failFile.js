@@ -1,1 +1,1 @@
-var test = 3
+var test = 3;
