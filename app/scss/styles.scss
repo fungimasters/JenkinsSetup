@@ -1,5 +1,11 @@
+$red: #d4a352;
 
-body{
-    color:red;
+body {
+  color: $red;
 }
-  
+
+$snake-case: 50;
+
+.fooBar {
+  width: $snake-case;
+}
