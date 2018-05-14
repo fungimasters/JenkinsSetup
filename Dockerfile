@@ -1,0 +1,2 @@
+COPY jksetup alpine/
+
